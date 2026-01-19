@@ -32,7 +32,7 @@ This package provides PipeWire and WirePlumber configuration files for the **Fos
 - Ubuntu 24.04
 
 ### Should work on
-- Any distribution with PipeWire 0.3.50+
+- Any distribution with PipeWire 1.0+ and WirePlumber 0.5+
 
 ## Installation
 
