@@ -4,8 +4,11 @@ This package provides PipeWire and WirePlumber configuration files for the **Fos
 
 ## Device Specifications
 
-- **DAC Chip**: ES9038Q2M
-- **Headphone Amp**: Dual CS43198
+- **DAC Chip**: AKM AK4493SEQ
+- **USB Interface**: XMOS XU208
+- **Headphone Amp**: Dual TPA6120A2
+- **Op-Amp**: OPA1612
+- **Bluetooth Module**: Qualcomm QCC3031 (Bluetooth 5.0)
 - **USB Modes**: UAC 1.0 / UAC 2.0 (switchable via button on device)
 
 ### UAC 2.0 Mode (High Resolution)
