@@ -97,7 +97,6 @@ mpv --audio-device=alsa/hw:K7,0 --audio-spdif=dsd your-file.dsf
 ### No Microphone Input
 - Microphone is only available in **UAC 1.0 mode**
 - Press the UAC button to switch modes
-- Run `fosi-k7-mode-check` to verify current mode
 
 ### Audio Crackling/Glitches
 Try increasing buffer sizes in the Lua configuration:
