@@ -29,9 +29,9 @@ This package provides PipeWire and WirePlumber configuration files for the **Fos
 - USB audio support in kernel
 
 ### Tested On
-- Ubuntu 22.04+ / 24.04
-- Fedora 38+
-- Arch Linux
+- Ubuntu 24.04
+
+### Should work on
 - Any distribution with PipeWire 0.3.50+
 
 ## Installation
